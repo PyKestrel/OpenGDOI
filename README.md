@@ -1,5 +1,5 @@
 # OpenGDOI
-In the dynamic landscape of network security, the demand for robust and flexible solutions is ever-growing. OpenGDOI emerges as a pioneering project, poised to revolutionize secure group communication by offering an open-source implementation of the Cisco Group Encrypted Transport VPN (GETVPN) protocol.
+OpenGDOI is an implementation of the Group Domain of Interpretation protocol as defined in RFC6407. It also implements protocols as defined in RFC4046 (Multicast Security (MSEC) Group Key Management Architecture).
 
 # Project Overview:
 OpenGDOI is designed to address the need for secure and scalable communication within Virtual Private Networks (VPNs), drawing inspiration from the principles of the Cisco GETVPN architecture. The project aims to provide a transparent and efficient solution for securing multicast traffic, enabling organizations to safeguard their data in transit across interconnected network devices.
